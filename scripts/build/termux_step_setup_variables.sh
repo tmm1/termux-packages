@@ -5,7 +5,7 @@ termux_step_setup_variables() {
 	: "${TERMUX_PREFIX:="/data/data/com.termux/files/usr"}"
 	: "${TERMUX_ANDROID_HOME:="/data/data/com.termux/files/home"}"
 	: "${TERMUX_DEBUG:="false"}"
-	: "${TERMUX_PKG_API_LEVEL:="24"}"
+	: "${TERMUX_PKG_API_LEVEL:="23"}"
 	: "${TERMUX_NO_CLEAN:="false"}"
 	: "${TERMUX_QUIET_BUILD:="false"}"
 	: "${TERMUX_DEBDIR:="${TERMUX_SCRIPTDIR}/debs"}"
